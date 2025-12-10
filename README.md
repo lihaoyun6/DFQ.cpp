@@ -1,9 +1,10 @@
 # DFQ.cpp
 "大番茄图片混淆"的C++实现  
 
-# 预览
-![Image](https://github.com/user-attachments/assets/0fa9d3ed-00c4-4c70-9a56-c0887d1543a4)
-![Image](https://github.com/user-attachments/assets/ebad9ca1-997e-4f73-80c6-785ade6460e5)
+# 预览 
+<p align="center">
+	<img alt="image" src="./preview.png"/>
+</p>
 
 # 编译
 ### Linux/macOS:
